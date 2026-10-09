@@ -88,16 +88,36 @@ Tom reported on the equipment trailer transport incident that occurred on the wa
 
 ## Epilog — Post-Field-Day Follow-up (2026-08 through 2026-09-08)
 
+### Manufacturer's Plate
+
+The manufacturer's data plate was photographed and is on file. Key ratings from the plate:
+
+<a href="./images/trailer_mfg_plate.jpg">
+  <img src="./images/trailer_mfg_plate.jpg" alt="Trailer manufacturer's data plate" width="560">
+</a>
+
+| Field | Value |
+|---|---|
+| Manufacturer | Interstate, Nampa Plant — Nampa, ID 83687 |
+| Date of Manufacture | 02/13/2007 |
+| VIN | 4RACS10107N052616 |
+| Model | ILRD610SAFS |
+| **GVWR** | **1,356 kg (2,990 lb)** |
+| GAWR (axle) | 1,587 kg (3,500 lb) |
+| Tire spec | ST205 75/D15C, 15"×5" JJ rim @ 345 kPa (50 PSI) |
+
 ### Weight Analysis
 
 After Field Day, Tom (KE4HET) weighed the trailer setup and confirmed the overloading:
 
 | | Weight |
 |---|---|
-| Trailer + generator (empty) | ~1,740 lbs |
+| Trailer + generator (tare) | ~1,740 lbs |
 | Cargo (as loaded for FD 2026) | ~2,020 lbs |
-| **Total** | **~3,760 lbs** |
-| **Overload** | **~1,000 lbs** |
+| **Total as towed** | **~3,760 lbs** |
+| **GVWR (rated limit)** | **2,990 lbs** |
+| **Exceeded GVWR by** | **~770 lbs (~26% over rated capacity)** |
+| Maximum allowable cargo | ~1,250 lbs (GVWR minus tare) |
 
 > *"We have definitely been overloading the trailer by about 1000 lbs."*  
 > — Tom Sayles, KE4HET (2026-09-02)
@@ -106,9 +126,9 @@ Robert Christian noted that even removing the few items that *could* come out st
 
 ### Weight Reduction Test
 
-When approximately half the cargo weight was removed from the trailer — enough to eliminate the overloading — the trailer towed significantly better. This confirms the overloading as the primary cause of the handling problems observed on SR-167.
+When approximately half the cargo weight was removed from the trailer — enough to bring the total within the GVWR — the trailer towed significantly better. This confirms the overloading as the primary cause of the handling problems observed on SR-167.
 
-> ⚠️ **The trailer must NOT be towed with its current full cargo load.** Equipment must be removed to eliminate the overloading and to ensure weight is properly distributed forward of the axle before any tow.
+> ⚠️ **The trailer must NOT be towed with its current full cargo load.** The trailer is rated for a maximum of 2,990 lbs GVWR. With the generator permanently mounted, maximum cargo is approximately 1,250 lbs. Equipment must be removed to stay within the GVWR and weight must be distributed forward of the axle before any tow.
 
 ### Generator Service
 
@@ -119,3 +139,67 @@ Following Field Day, the permanently-mounted Honda EV6010 generator (S/N ECB-102
 Tom recommended against reloading the full cargo before returning the trailer, given the confirmed ~1,000 lb overload. He also recommended that someone record an inventory of the Auburn storage unit contents when loading out — to support decisions about what should be in the trailer, what can be stored elsewhere, and what should be disposed of.
 
 The trailer and all equipment were returned to **Toku's (AD7JA) yard on 2026-09-08**.
+
+---
+
+## Appendix — Trailer Specifications
+
+**Make/Model:** Interstate ILRD610SAFS enclosed cargo trailer  
+**Manufactured:** 02/13/2007, Interstate Nampa Plant, Nampa, ID 83687  
+**VIN:** 4RACS10107N052616
+
+### Dimensions
+
+| | |
+|---|---|
+| Overall length | ~13' 10" |
+| Overall width | 7' 10" |
+| Overall height | 7' 1" |
+| Interior length | 10' 4" |
+| Interior width | 5' 7" |
+| Interior height | 5' 8" |
+| Rear door opening | 63" W × 60" H |
+| Platform height | 17" |
+
+### Weights & Ratings
+
+| | |
+|---|---|
+| GVWR | **2,990 lbs** (1,356 kg) |
+| GAWR (axle) | 3,500 lbs (1,587 kg) |
+| Curb weight (trailer only, no generator) | ~1,190–1,420 lbs |
+| Tare with Honda EV6010 generator | ~1,740 lbs |
+| **Maximum cargo (with generator)** | **~1,250 lbs** |
+
+### Hitch & Towing
+
+| | |
+|---|---|
+| Ball size | 2" |
+| Hitch weight (tongue) | ~130 lbs |
+
+### Running Gear
+
+| | |
+|---|---|
+| Axle | Single leaf-spring, 3,500 lb rated |
+| Tires | ST205 75/D15C |
+| Rim | 15"×5" JJ |
+| Tire pressure | 50 PSI (345 kPa) |
+| Brakes | None (under 3,000 lb GVWR) |
+
+### Construction
+
+| | |
+|---|---|
+| Frame | 3" tube steel |
+| Skin | Aluminum |
+| Floor | 3/4" Drymax, 24" o/c |
+| Side walls | 3/8" plywood, 16" o/c |
+
+### Permanently Installed Equipment
+
+| Item | Details |
+|---|---|
+| Generator | Honda EV6010, S/N ECB-1021107 |
+| Hour meter | Honda 08181-ENM-036AH (ENM 36"), installed 2026-09-02 |
