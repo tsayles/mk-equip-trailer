@@ -83,8 +83,13 @@ P/N: 31ZB56AH2 (©1997 American Honda Motor Co., Inc.)
 ### RV Compartment — Minimum Installation Clearances
 
 The following values are taken directly from the **CAUTION label**
-affixed to the generator (EV4010/EV6010 Owner's Manual, Honda
-Motor Co., Ltd., 2007):
+affixed to the generator, as reproduced in the official owner's
+manual:
+
+**Source:**
+[EV4010/EV6010 Owner's Manual (P/N 31ZB5801) — Honda Power
+Equipment](https://cdn.powerequipment.honda.com/pe/pdf/manuals/31ZB5801.pdf)
+*(Honda Motor Co., Ltd., 2007 — Safety Label Locations, p. 4)*
 
 | Direction          | Minimum Clearance       |
 |--------------------|-------------------------|
