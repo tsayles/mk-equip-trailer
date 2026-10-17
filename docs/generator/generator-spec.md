@@ -63,6 +63,45 @@
 
 ---
 
+## Clearance Requirements
+
+### Outdoor / Free-Air Operation
+
+Per the Honda EV6010/EV4010 Owner's Manual and applicable standards
+(RVIA, ANSI, NFPA):
+
+| Direction      | Minimum Clearance    |
+|----------------|----------------------|
+| All sides      | 36 in (3 ft / ~1 m) |
+| Above          | 36 in (3 ft / ~1 m) |
+
+- Generator must **never** be operated in a closed or partially
+  closed space where people may be present (carbon monoxide hazard).
+- Exhaust outlet must be directed away from doors, windows, and
+  any occupied space.
+
+### Trailer-Enclosed Installation
+
+The EV6010 is permanently mounted inside the trailer's generator
+box. This installation must ensure:
+
+- **Exhaust venting:** Exhaust gases must vent fully to the
+  exterior of the trailer and cannot re-enter any occupied area.
+- **Ventilation airflow:** Adequate intake and exhaust venting
+  must be maintained around the enclosure so the engine does not
+  overheat.
+- **Breaker box clearance:** The generator box cover must maintain
+  sufficient clearance from the adjacent breaker box to prevent
+  contact, heat transfer, or interference with circuit breaker
+  operation.
+
+> ⚠️ **Known issue:** The generator box cover is currently warped
+> and has **insufficient clearance to the breaker box**.
+> The cover must be straightened or replaced before the next
+> deployment. See [Issue #4](https://github.com/tsayles/mk-equip-trailer/issues/4).
+
+---
+
 ## Hour Meter
 
 | Field          | Value                              |
