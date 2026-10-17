@@ -63,42 +63,64 @@
 
 ---
 
+## RV Installation Manual
+
+The RV-specific variant is the **Honda EVD6010** (EVD = dealer /
+RV-installed). The installation guide covering both the EV6010 and
+EVD6010 is:
+
+**EV4010/6010 · EVD4010/6010 Generator Installation Manual**
+P/N: 31ZB56AH2 (©1997 American Honda Motor Co., Inc.)
+[PDF — bdub.net mirror](http://www.bdub.net/manuals/Honda_EVD6010_Installation.pdf)
+
+> Installation and pre-delivery service must be performed by an
+> authorized Honda servicing dealer.
+
+---
+
 ## Clearance Requirements
 
-### Outdoor / Free-Air Operation
+### RV Compartment — Minimum Installation Clearances
 
-Per the Honda EV6010/EV4010 Owner's Manual and applicable standards
-(RVIA, ANSI, NFPA):
+The following values are taken directly from the **CAUTION label**
+affixed to the generator (EV4010/EV6010 Owner's Manual, Honda
+Motor Co., Ltd., 2007):
 
-| Direction      | Minimum Clearance    |
-|----------------|----------------------|
-| All sides      | 36 in (3 ft / ~1 m) |
-| Above          | 36 in (3 ft / ~1 m) |
+| Direction          | Minimum Clearance       |
+|--------------------|-------------------------|
+| Front              | 33 mm (1.3 in)          |
+| Rear               | 30 mm (1.2 in)          |
+| Top                | 26 mm (1.02 in)         |
+| Engine side        | 30 mm (1.2 in)          |
+| Generator side     | 34 mm (1.34 in)         |
+
+**Compartment door ventilation opening:** minimum **545 cm²
+(84.5 in²)**
+
+**Compartment sealing:** The compartment must be **completely
+sealed** to prevent exhaust vapors from entering the living/working
+space.
+
+### Carbon Monoxide / Exhaust Safety
 
 - Generator must **never** be operated in a closed or partially
-  closed space where people may be present (carbon monoxide hazard).
+  closed space where people may be present.
 - Exhaust outlet must be directed away from doors, windows, and
-  any occupied space.
+  any occupied area.
+- Placing awnings or other objects near the exhaust outlet will
+  restrict ventilation and may cause CO to accumulate.
 
-### Trailer-Enclosed Installation
+### Breaker Box Clearance
 
-The EV6010 is permanently mounted inside the trailer's generator
-box. This installation must ensure:
-
-- **Exhaust venting:** Exhaust gases must vent fully to the
-  exterior of the trailer and cannot re-enter any occupied area.
-- **Ventilation airflow:** Adequate intake and exhaust venting
-  must be maintained around the enclosure so the engine does not
-  overheat.
-- **Breaker box clearance:** The generator box cover must maintain
-  sufficient clearance from the adjacent breaker box to prevent
-  contact, heat transfer, or interference with circuit breaker
-  operation.
+The generator box cover must maintain sufficient clearance from
+the adjacent breaker box to prevent contact, heat transfer, or
+interference with circuit breaker operation.
 
 > ⚠️ **Known issue:** The generator box cover is currently warped
 > and has **insufficient clearance to the breaker box**.
 > The cover must be straightened or replaced before the next
-> deployment. See [Issue #4](https://github.com/tsayles/mk-equip-trailer/issues/4).
+> deployment. See
+> [Issue #4](https://github.com/tsayles/mk-equip-trailer/issues/4).
 
 ---
 
