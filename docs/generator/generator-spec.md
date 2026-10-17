@@ -78,6 +78,63 @@ P/N: 31ZB56AH2 (©1997 American Honda Motor Co., Inc.)
 
 ---
 
+## Regulatory Standards — Generator Compartments
+
+The following standards govern generator compartment construction,
+ventilation, and clearance in recreational vehicles. The MK ARC
+equipment trailer is not a factory-certified RV, but these standards
+represent the applicable best-practice and safety baseline.
+
+| Standard | Scope | Access |
+|----------|-------|--------|
+| **NFPA 1192** — Standard on Recreational Vehicles (2026 ed.) | Trailers, motorhomes, camping trailers | [Free read-only online](https://www.nfpa.org/codes-and-standards/1/nfpa-1/9/nfpa-1192) (registration required) |
+| **ANSI/RVIA A119.5** (2025 ed.) | Park Model RVs | [Purchase — Accuris](https://store.accuristech.com/standards/rvia-a119-5?product_id=3095298) |
+| **NFPA 37** — Standard for Stationary Combustion Engines | Referenced by NFPA 1192 for generator installations | NFPA codes portal |
+
+### Summary of NFPA 1192 / RVIA Requirements
+
+*(The full standard text must be purchased or viewed via NFPA's
+free read-only portal. The following is a summary of applicable
+requirements.)*
+
+**Compartment construction:**
+- Must be constructed of **non-combustible materials** (metal).
+- Must be **completely sealed** from living/working areas except
+  for necessary wiring and fuel penetrations.
+- Access door must be **tightly fitting** and fire-resistant.
+
+**Ventilation:**
+- Compartment must be **vented to the exterior** for both cooling
+  airflow and combustion air intake.
+- Intake and exhaust openings must be located to **prevent
+  recirculation** of generator exhaust back into the vehicle or
+  occupied areas.
+- Sizing and location of ventilation openings must meet the
+  **generator manufacturer's specifications** (see Honda label
+  values below — 545 cm² / 84.5 in² minimum).
+
+**Exhaust:**
+- Exhaust must terminate **outside the vehicle** in a location
+  that prevents gases from entering windows, doors, vents, or
+  living areas.
+- Minimum **12 inches (305 mm)** clearance from exhaust outlet to
+  any opening or combustible material (per NFPA 37, referenced by
+  NFPA 1192).
+
+**Clearances (per manufacturer — see Honda label):**
+- Manufacturer-specified clearances take precedence; NFPA 1192
+  requires compliance with manufacturer instructions.
+- RVIA practice: generally **not less than 1 inch** between
+  generator and compartment surfaces, unless manufacturer permits
+  less.
+
+**RVIA seal:** Factory-built RVs bear the RVIA seal confirming
+compliance. Aftermarket installations (such as ours) must meet
+the same safety intent but are not factory-certified.
+[RVIA Standards & Regulations](https://www.rvia.org/standards-regulations)
+
+---
+
 ## Clearance Requirements
 
 ### RV Compartment — Minimum Installation Clearances
